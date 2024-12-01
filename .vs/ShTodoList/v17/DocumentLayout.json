@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tvoi_\\source\\repos\\ShTodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{628A182C-A621-4116-B70E-EF36F7C3A35C}|ShTodoList.vcxproj|C:\\Users\\tvoi_\\source\\repos\\ShTodoList\\ShTodoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{628A182C-A621-4116-B70E-EF36F7C3A35C}|ShTodoList.vcxproj|solutionrelative:ShTodoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShTodoList.cpp",
+              "DocumentMoniker": "C:\\Users\\tvoi_\\source\\repos\\ShTodoList\\ShTodoList.cpp",
+              "RelativeDocumentMoniker": "ShTodoList.cpp",
+              "ToolTip": "C:\\Users\\tvoi_\\source\\repos\\ShTodoList\\ShTodoList.cpp",
+              "RelativeToolTip": "ShTodoList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T06:26:16.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
